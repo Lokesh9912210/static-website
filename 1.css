@@ -1,0 +1,22 @@
+.back {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.back1 {
+    background-color: #2193b0;
+    background-size: cover;
+    height: 175vh;
+}
+
+.h3 {
+    text-decoration: underline;
+    padding: 10px;
+    font-family: Bree serif;
+}
+
+.but1 {
+    background-color: orange;
+    color: white;
+}
