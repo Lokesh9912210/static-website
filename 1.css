@@ -7,13 +7,14 @@
 .back1 {
     background-color: black;
     background-size: cover;
-    height: 175vh;
+    height: 185vh;
 }
 
 .h3 {
     text-decoration: underline;
     padding: 10px;
     font-family: Bree serif;
+    color:white
 }
 
 .but1 {
