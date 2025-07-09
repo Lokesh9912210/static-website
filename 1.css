@@ -1,11 +1,11 @@
 .back {
-    background-color: black;
+    background-color:#2193b0;
     color: white;
     text-align: center;
 }
 
 .back1 {
-    background-color: #2193b0;
+    background-color: black;
     background-size: cover;
     height: 175vh;
 }
